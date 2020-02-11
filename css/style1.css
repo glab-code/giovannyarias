@@ -1,0 +1,47 @@
+body {
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	background-color: #00B1FF;
+	font-size: 13px;
+	margin: 0;
+}
+body, html {
+	height: 100%
+}
+.landscape-image{
+    width: 100%;
+}
+.me-image{
+    width: 100%;
+}
+.landscape-box{
+    position: absolute;
+}
+.greeting-box{
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    padding-top: 150px;
+    font-size: 2.2em;
+    padding-bottom: 120px;
+}
+.me-box{
+    position: absolute;
+}
+.fix-landscape-box{
+    position: absolute;
+    background-color: #000;
+}
+.i-love-box{
+    color: rgba(255, 255, 255);
+    position: absolute;
+    margin-top: 90px;
+    padding: 40px;
+    text-align: center;
+    font-size: 2rem;
+}
+.bold{
+    font-weight: bold;
+}
+.delete-box{
+    background-color: #000;
+    height: 3000px;
+}
