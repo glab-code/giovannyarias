@@ -14,6 +14,7 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "gsap": "^3.0.0",
-    "scrollmagic": "^2.0.7"
+    "scrollmagic": "^2.0.7",
+    "fontawesome": "^5.12.1"
   }
 }
